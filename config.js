@@ -16,7 +16,7 @@
  // Create a Production environment
  environments.production = {
      'httpPort': 6000,
-     'httpsPort': 6661,
+     'httpsPort': 6001,
      'envName': 'production',
  } 
 
